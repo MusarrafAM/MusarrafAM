@@ -54,8 +54,8 @@ Here are some ideas to get you started:
 <br/>
 
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MusarrafAM&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MusarrafAM&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.Musarraf.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.Musarraf.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.Musarraf-Portfolio.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.Musarraf.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Muhammed%20Musarraf-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://instagram.com/musarraf_am?igshid=MzNlNGNkZWQ4Mg=="><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Musarraf-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:Musha@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Musha@gmail.com-blue?style=flat-square&logo=gmail"></a>
