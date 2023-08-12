@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **MusarrafAM/MusarrafAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +16,7 @@ Here are some ideas to get you started:
 
 <!-- <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png"> -->
 
-<h2> Hey there! I'm Musarraf</h2>
+<h2> Hi there 👋 I'm Musarraf</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
