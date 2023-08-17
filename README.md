@@ -51,6 +51,7 @@ Here are some ideas to get you started:
 
 
 <br/>
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 <a href="https://github.com/AVS1508">
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MusarrafAM&theme=buefy&show_icons=true" /> --> 
