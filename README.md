@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="![Me1](https://github.com/MusarrafAM/MusarrafAM/assets/102628794/99d71594-56b4-4da1-8c00-2bfd275ab1ef)" width="30px">
+<img src="https://github.com/MusarrafAM/MusarrafAM/assets/102628794/99d71594-56b4-4da1-8c00-2bfd275ab1ef" width="30px">
 
 <h2> Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Musarraf</h2>
 
