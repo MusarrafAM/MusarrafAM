@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png"> -->
-
+![Me1](https://github.com/MusarrafAM/MusarrafAM/assets/102628794/99d71594-56b4-4da1-8c00-2bfd275ab1ef)
 <h2> Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Musarraf</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
