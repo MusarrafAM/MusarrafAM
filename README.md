@@ -57,8 +57,14 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/MusarrafAM">
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MusarrafAM&theme=buefy&show_icons=true" /> --> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MusarrafAM&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MusarrafAM&theme=radical&layout=compact" />
 </a>
+
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=onaliyvinukiy&theme=radical&show_icons=true&locale=en&layout=compact" alt="onaliyvinukiy" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onaliyvinukiy&theme=radical&show_icons=true&locale=en" alt="onaliyvinukiy" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onaliyvinukiy&theme=radical" alt="onaliyvinukiy" /></p> -->
 
 <br/>
 
