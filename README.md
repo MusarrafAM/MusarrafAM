@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing, and playing games as hobbies/side hustles.
 
 
-<img width="15%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MusarrafAM&theme=radical&layout=compact" />
 </a>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=musarrafam&theme=radical&" alt="musarrafam" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=musarrafam&theme=radical&" alt="musarrafam" /></p>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=onaliyvinukiy&theme=radical&show_icons=true&locale=en&layout=compact" alt="onaliyvinukiy" /></p>
 
