@@ -60,17 +60,16 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MusarrafAM&theme=radical&layout=compact" />
 </a>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=musarrafam&theme=radical&" alt="musarrafam" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=musarrafam&theme=radical&" alt="musarrafam" /></p>  
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=onaliyvinukiy&theme=radical&show_icons=true&locale=en&layout=compact" alt="onaliyvinukiy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onaliyvinukiy&theme=radical&show_icons=true&locale=en" alt="onaliyvinukiy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onaliyvinukiy&theme=radical" alt="onaliyvinukiy" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onaliyvinukiy&theme=radical" alt="onaliyvinukiy" /></p> -->  
 
-<br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3 align="left"> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <!--
 <p align="center">
@@ -82,10 +81,10 @@ Here are some ideas to get you started:
 -->
 
 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musarrafam&label=Profile%20views&color=0e75b6&style=flat" alt="musarrafam" /> </p>
 
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammed-musarraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed-musarraf" height="30" width="40" /></a>
 </p>
