@@ -1,21 +1,3 @@
-
-<!--
-**MusarrafAM/MusarrafAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--<img src="https://github.com/MusarrafAM/MusarrafAM/assets/102628794/99d71594-56b4-4da1-8c00-2bfd275ab1ef" width="30px"> -->
-
 <h2> Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Musarraf</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -26,8 +8,10 @@ Here are some ideas to get you started:
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design, Data Structures, and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing, and playing games as hobbies/side hustles.
 
-
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+
+---
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
@@ -51,45 +35,19 @@ Here are some ideas to get you started:
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
-
 <br/>
 
-
 <a href="https://github.com/MusarrafAM">
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MusarrafAM&theme=buefy&show_icons=true" /> --> 
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MusarrafAM&theme=buefy&show_icons=true" /> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MusarrafAM&theme=radical&layout=compact" />
-</a>  
+</a>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=musarrafam&theme=radical&" alt="musarrafam" /></p>  
-
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=onaliyvinukiy&theme=radical&show_icons=true&locale=en&layout=compact" alt="onaliyvinukiy" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onaliyvinukiy&theme=radical&show_icons=true&locale=en" alt="onaliyvinukiy" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onaliyvinukiy&theme=radical" alt="onaliyvinukiy" /></p> -->  
-
-<br><br><br><br><br><br><br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=musarrafam&theme=radical&" alt="musarrafam" /></p>
 
 <h3 align="left"> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<!--
-<p align="center">
-<a href="https:/www.Musarraf-Portfolio.com"><img alt="Website" src="https://img.shields.io/badge/Website-www.Musarraf.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/muhammed-musarraf"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Muhammed%20Musarraf-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://instagram.com/musarraf_am?igshid=MzNlNGNkZWQ4Mg=="><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Musarraf-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:Musha@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Musha@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
--->
-
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=musarrafam&label=Profile%20views&color=0e75b6&style=flat" alt="musarrafam" /> </p>
-
 <p align="left">
 <a href="https://linkedin.com/in/muhammed-musarraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed-musarraf" height="30" width="40" /></a>
+
 </p>
-
-
-
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=musarrafam&label=Profile%20views&color=0e75b6&style=flat" alt="musarrafam" /> </p>
