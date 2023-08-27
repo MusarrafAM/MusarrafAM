@@ -82,15 +82,12 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musarrafam&label=Profile%20views&color=0e75b6&style=flat" alt="musarrafam" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=musarrafam" alt="musarrafam" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammed-musarraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed-musarraf" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=musarrafam&show_icons=true&locale=en&layout=compact" alt="musarrafam" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=musarrafam&show_icons=true&locale=en" alt="musarrafam" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=musarrafam&" alt="musarrafam" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=musarrafam&theme=radical&" alt="musarrafam" /></p>
