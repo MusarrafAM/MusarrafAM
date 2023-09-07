@@ -44,7 +44,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=musarrafam&theme=radical&" alt="musarrafam" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=musarrafam&label=Profile%20views&color=0e75b6&style=flat" alt="musarrafam" /> </p>
+
 
 <h3 align="left"> 🤝🏻 &nbsp;Connect with Me </h3>
 
@@ -54,3 +54,5 @@
 
 </p>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=musarrafam&label=Profile%20views&color=0e75b6&style=flat" alt="musarrafam" /> </p>
