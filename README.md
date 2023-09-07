@@ -44,6 +44,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=musarrafam&theme=radical&" alt="musarrafam" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=musarrafam&label=Profile%20views&color=0e75b6&style=flat" alt="musarrafam" /> </p>
+
 <h3 align="left"> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="left">
@@ -51,4 +53,4 @@
 <a href="https://medium.com/@muhammedmusarraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muhammedmusarraf" height="30" width="40" /></a>
 
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=musarrafam&label=Profile%20views&color=0e75b6&style=flat" alt="musarrafam" /> </p>
+
